@@ -1,0 +1,8 @@
+/venv/
+.vscode
+/bundler.egg-info
+/test*.py
+/dist/
+/__pycache__/
+/output.py
+*.pyc
