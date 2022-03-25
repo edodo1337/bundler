@@ -6,3 +6,5 @@
 /__pycache__/
 /output.py
 *.pyc
+/build/
+/pybundler.egg-info
